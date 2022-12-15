@@ -1,0 +1,16 @@
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\bin\Debug\net5.0\TheoryOfGraphs.exe
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\bin\Debug\net5.0\TheoryOfGraphs.deps.json
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\bin\Debug\net5.0\TheoryOfGraphs.runtimeconfig.json
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\bin\Debug\net5.0\TheoryOfGraphs.runtimeconfig.dev.json
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\bin\Debug\net5.0\TheoryOfGraphs.dll
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\bin\Debug\net5.0\ref\TheoryOfGraphs.dll
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\bin\Debug\net5.0\TheoryOfGraphs.pdb
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\obj\Debug\net5.0\TheoryOfGraphs.csproj.AssemblyReference.cache
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\obj\Debug\net5.0\TheoryOfGraphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\obj\Debug\net5.0\TheoryOfGraphs.AssemblyInfoInputs.cache
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\obj\Debug\net5.0\TheoryOfGraphs.AssemblyInfo.cs
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\obj\Debug\net5.0\TheoryOfGraphs.csproj.CoreCompileInputs.cache
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\obj\Debug\net5.0\TheoryOfGraphs.dll
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\obj\Debug\net5.0\ref\TheoryOfGraphs.dll
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\obj\Debug\net5.0\TheoryOfGraphs.pdb
+C:\Users\Alina\source\repos\TheoryOfGraphs\TheoryOfGraphs\obj\Debug\net5.0\TheoryOfGraphs.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q1PQ/r06KWbESDnI9uZYeCLdmbD3yVlIfluTuD9vMrCKy04YJclAMlWPa4EtFNKayalPlahcKWns0DXgafJSGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alina\\source\\repos\\TheoryOfGraphs\\TheoryOfGraphs\\TheoryOfGraphs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
